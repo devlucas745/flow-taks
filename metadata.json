@@ -1,0 +1,7 @@
+{
+  "name": "FlowTask",
+  "description": "Aplicativo Android nativo completo de gerenciamento de tarefas e projetos com Kotlin & Jetpack Compose. Organize hoje. Conquiste amanhã.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
